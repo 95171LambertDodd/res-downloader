@@ -57,12 +57,6 @@ Clean UI, easy to use, and supports a wide range of resource sniffing and downlo
 
 > **Personal tip:** On macOS, if the proxy doesn't intercept browser traffic, make sure to set your system network proxy manually to `127.0.0.1:8899` in System Settings → Network → Proxies.
 
-> **Personal tip:** On macOS Sequoia (15+), you may need to re-trust the certificate in Keychain Access after each OS update — search for "res-downloader" and set it to "Always Trust" under the certificate's Trust settings.
+> **Personal tip:** On macOS Sequoia (15+), you may need to re-trust the certificate
 
----
-
-## ❓ FAQ
-
-### 📺 m3u8 Video Resources
-
-- Online Preview: [m3u8play](https://m3u8
+> **Personal tip:** On Windows, if captured videos fail to play after download, try opening them with [VLC media player](https://www.videolan.org/vlc/) — it handles m3u8 and most formats reliably.
