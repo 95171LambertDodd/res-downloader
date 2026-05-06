@@ -59,4 +59,4 @@ Clean UI, easy to use, and supports a wide range of resource sniffing and downlo
 
 > **Personal tip:** On macOS Sequoia (15+), you may need to re-trust the certificate
 
-> **Personal tip:** On Windows, if captured videos fail to play after download, try opening them with [VLC media player](https://www.videolan.org/vlc/) — it handles m3u8 and most formats reliably.
+> **Personal tip:** On Windows, if captured resources are not showing up, try running the application as Administrator to ensure it has permission to install the proxy certificate.
