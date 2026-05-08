@@ -59,4 +59,4 @@ Clean UI, easy to use, and supports a wide range of resource sniffing and downlo
 
 > **Personal tip:** On macOS Sequoia (15+), you may need to re-trust the certificate
 
-> **Personal tip:** If captured resources are not showing up, try toggling the proxy off and on again — this often resolves stale connection issues.
+> **Personal tip:** If captured resources are not showing up, try toggling the proxy off and on again — this often helps after the app has been running for a long time.
